@@ -1,1 +1,2 @@
-its a dummy text file for move to staging area.
+its a dummy text file for move to staging area. 
+2. now i created a new branch . i commit this dummy file with some changes that this is the line.  

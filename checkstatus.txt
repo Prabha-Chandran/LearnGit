@@ -1,0 +1,1 @@
+this file is created for check the status command . i did not commit this file.just git  add checkstatus.txt.then check git status ...It will display like "new file is there .it need to be commited" msg 
